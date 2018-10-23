@@ -11,7 +11,7 @@ public class App1 {
 		 if(f2.isDirectory())
 		 System.out.println("Rep : "+s);
 		 else
-	     System.out.println("File : "+s); 
+	     System.out.println("Filess : "+s); 
 	 }
  }
 }
